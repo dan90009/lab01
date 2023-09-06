@@ -35,4 +35,7 @@ public class Main {
     public static void sort(int array[]){
         insertionSort(array);
     }
+    public static void sort(int array[]){
+        selectionSort(array);
+    }
 }
